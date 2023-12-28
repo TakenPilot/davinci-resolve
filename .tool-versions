@@ -1,0 +1,13 @@
+# asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git
+# asdf plugin add python https://github.com/danhper/asdf-python.git
+# asdf plugin add java https://github.com/halcyon/asdf-java.git
+# asdf plugin add pre-commit
+
+# To use Java, add the following to your ~/.zshrc:
+#   . ~/.asdf/plugins/java/set-java-home.zsh
+# (See here for instructions for other shells: https://github.com/halcyon/asdf-java#java_home)
+
+# Latest version of 3.6 as of 2023-12-28.
+python 3.6.15
+nodejs 16.13.1
+pre-commit 3.3.3
